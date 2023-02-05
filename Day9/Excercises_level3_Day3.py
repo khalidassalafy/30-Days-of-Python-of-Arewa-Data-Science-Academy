@@ -49,3 +49,4 @@ if person['is_married']==True and person['country']=='Finland':
     print('{} {} is married. He lives in {}'.format(person['first_name'],person['last_name'],person['country']))
 
 print("Alhamdulillah! Done with day 9 challenge")
+print("This challenge is cool")
