@@ -1,0 +1,16 @@
+#How do you check if a number is even or not using python?
+even_num=int(input("enter a number: "))
+if even_num%2==0:
+    print("the number ",even_num,' is even')
+else:
+     print("the number ",even_num,' is odd')  
+
+#Check if the floor division of 7 by 3 is equal to the int converted value of 2.7.
+print(7//3 is int(2.7))
+
+#Check if type of '10' is equal to type of 10
+print(type('10') is type(10))
+
+#Check if int('9.8') is equal to 10
+print(type(int('9.8')) == type(10))
+

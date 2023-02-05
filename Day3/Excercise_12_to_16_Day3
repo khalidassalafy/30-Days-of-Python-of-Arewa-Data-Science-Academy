@@ -1,0 +1,18 @@
+#Find the length of 'python' and 'dragon' 
+#and make a falsy comparison statement.
+python_len=len('python')
+dragon_len=len('dragon')
+print(not python_len is dragon_len)
+
+#check if 'on' is found in both 'python' and 'dragon'
+print('on' in 'python' and 'on' in 'dragon')
+
+#check if jargon is in the sentence.
+print('jargon' in 'I hope this course is not full of jargon')
+
+#There is no 'on' in both dragon and python
+print('on'not in 'dragon' and 'on' not in 'python')
+
+#Find the length of the text python and convert the value to float
+# and convert it to string
+print(str(int(len('python'))))

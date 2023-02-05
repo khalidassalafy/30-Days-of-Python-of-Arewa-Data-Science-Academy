@@ -1,0 +1,70 @@
+print('Days\tTopics\tExercises') # adding tab space or 4 spaces 
+print('Day 1\t3\t5')
+print('Day 2\t3\t5')
+print('Day 3\t3\t5')
+print('Day 4\t3\t5')
+
+#old formatting
+# Strings only
+first_name = 'Asabeneh'
+last_name = 'Yetayeh'
+language = 'Python'
+formated_string = 'I am %s %s. I teach %s' %(first_name, last_name, language)
+print(formated_string)
+
+# Strings  and numbers
+radius = 10
+pi = 3.14
+area = pi * radius ** 2
+formated_string = 'The area of circle with a radius %d is %.2f.' %(radius, area) # 2 refers the 2 significant digits after the point
+print(formated_string)
+
+#New style formatting
+a = 4
+b = 3
+print('{} + {} = {}'.format(a, b, a + b))
+print('{} - {} = {}'.format(a, b, a - b))
+print('{} * {} = {}'.format(a, b, a * b))
+print('{} / {} = {:.2f}'.format(a, b, a / b)) # limits it to two digits after decimal
+print('{} % {} = {}'.format(a, b, a % b))
+print('{} // {} = {}'.format(a, b, a // b))
+print('{} ** {} = {}'.format(a, b, a ** b))
+
+# Strings  and numbers
+radius = 10
+pi = 3.14
+area = pi * radius ** 2
+formated_string = 'The area of a circle with a radius {} is {:.2f}.'.format(radius, area) # 2 digits after decimal
+print(formated_string)
+
+#stringd interpolation
+a = 4
+b = 3
+print(f'{a} + {b} = {a +b}')
+print(f'{a} - {b} = {a - b}')
+print(f'{a} * {b} = {a * b}')
+print(f'{a} / {b} = {a / b:.2f}')
+print(f'{a} % {b} = {a % b}')
+print(f'{a} // {b} = {a // b}')
+print(f'{a} ** {b} = {a ** b}')
+
+#skip slicing
+language = 'Python'
+pto = language[0:6:2] 
+print(pto)
+
+#find the index of first occurence
+challenge = 'thirty days of python'
+print(challenge.find('y'))
+
+#formatting
+radius = 10
+pi = 3.14
+area = pi * radius ** 2
+result = 'The area of a circle with radius {} is {:.3f}'.format(radius, area)
+print(result) # The area of a circle with radius 10 is 314
+
+#join
+web_tech = ['HTML', 'CSS', 'JavaScript', 'React']
+result ='# '.join(web_tech)
+print(result)
