@@ -11,7 +11,7 @@
 
 # 🐍  Arewa Data Science 30 Days Of Python  🐍
  
- Arewa Data Science 30-Days of Python Challenge. This is one of the basic reuirements in the Data Science journey in Arewa Data Science Academy. 
+ Arewa Data Science 30-Days of Python Challenge. This is one of the basic reuirements for Data Science journey in Arewa Data Science Academy. 
  
  All anwsers to dailly excercises are posted here. The Excercises covered so far are:
 |# Day | Topics                                                    |
