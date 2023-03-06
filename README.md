@@ -38,7 +38,8 @@
 | 20 |   Python Package Manager|
 | 21 |   Classes and Objects|
 | 22 |   Web Scraping|
-| 23 |  
+| 23 |   Virtual Environment|
+| 24 |
 
 🧡🧡🧡 HAPPY CODING, Credits to khalidassalafy
  🧡🧡🧡
