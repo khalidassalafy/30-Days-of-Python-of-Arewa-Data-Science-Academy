@@ -3,3 +3,4 @@ my_venv
 .vscode
 .gitattributes
 .gitignore
+.ipynb_checkpoints
