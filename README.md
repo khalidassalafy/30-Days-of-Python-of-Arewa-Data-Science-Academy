@@ -40,7 +40,7 @@
 | 22 |   Web Scraping|
 | 23 |   Virtual Environment|
 | 24 |   Python for Statistical Analysis|
-| 25 |
+| 25 |   Pandas |
 
 🧡🧡🧡 HAPPY CODING, Credits to khalidassalafy
  🧡🧡🧡
