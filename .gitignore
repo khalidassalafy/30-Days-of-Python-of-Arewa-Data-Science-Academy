@@ -4,3 +4,4 @@ my_venv
 .gitattributes
 .gitignore
 .ipynb_checkpoints
+flask_env
