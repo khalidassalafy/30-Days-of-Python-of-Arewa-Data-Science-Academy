@@ -41,6 +41,7 @@
 | 23 |   Virtual Environment|
 | 24 |   Python for Statistical Analysis|
 | 25 |   Pandas |
+| 26 |   Python for Web |
 
 🧡🧡🧡 HAPPY CODING, Credits to khalidassalafy
  🧡🧡🧡
